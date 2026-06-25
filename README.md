@@ -60,13 +60,13 @@ Desarrollo e integración de módulos clave de la aplicación, incluyendo:
 ![Home](images/home.png)
 
 ### Inventario
-![Inventario](images/inventario.png)
+![Inventario](images/inventory.png)
 
 ### Registro de mantenimiento
-![Registro](images/registro.png)
+![Registro](images/maintenance_order.png)
 
 ### Órdenes
-![Ordenes](images/ordenes.png)
+![Ordenes](images/orders.png)
 
 ## Nota de privacidad
 
